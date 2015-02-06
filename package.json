@@ -6,6 +6,7 @@
   "scripts": {},
   "author": "Rob Ballou",
   "license": "ISC",
+  "repository": "git@github.com:robballou/rectangle.git",
   "devDependencies": {
     "should": "^4.6.5"
   }
