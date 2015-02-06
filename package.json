@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "Do stuff with rectangles",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "mocha"
+  },
   "author": "Rob Ballou",
   "license": "ISC",
   "repository": "git@github.com:robballou/rectangle.git",
