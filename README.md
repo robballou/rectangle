@@ -5,6 +5,10 @@ Do things with rectangles in JavaScript.
 ```javascript
 var Rectangle = require('rectangle');
 
+// create rectangles with the Rectangle class:
+//
+//   new Rectangle(x, y, width, height)
+
 // create a 2x2 rectangle at 1,1
 var rect1 = new Rectangle(1, 1, 2, 2);
 
