@@ -4,6 +4,8 @@
 
 Do things with rectangles in JavaScript.
 
+
+
 ```javascript
 var Rectangle = require('rectangle');
 
@@ -29,3 +31,7 @@ rect1.intersects(rect2);
 var rect3 = new Rectangle(2, 2, 4, 4);
 rect1.intersects(rect3);
 ```
+
+## See also
+
+* https://github.com/rahatarmanahmed/rectangle-node
