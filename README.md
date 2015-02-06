@@ -1,5 +1,7 @@
 # Rectangle
 
+<img src="https://travis-ci.org/robballou/rectangle.svg?branch=master" />
+
 Do things with rectangles in JavaScript.
 
 ```javascript
