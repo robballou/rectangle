@@ -1,0 +1,12 @@
+{
+  "name": "rectangle",
+  "version": "0.0.1",
+  "description": "Do stuff with rectangles",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Rob Ballou",
+  "license": "ISC",
+  "devDependencies": {
+    "should": "^4.6.5"
+  }
+}
